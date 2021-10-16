@@ -1,0 +1,5 @@
+comando para copiar para dentro de um container:
+nome do conteiner utilizado: terceiro
+#docker container cp arquivoCopiado.txt terceiro:/tmp
+diretório /tmp está dentro do container receberá este arquivo
+
